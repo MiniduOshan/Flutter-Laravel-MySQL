@@ -14,11 +14,11 @@ A full-stack application built using Flutter (Frontend), Laravel (Backend API), 
 ---
 
 ## 📁 Project Structure
-
+```bash
 my_project/
  ├── mobile_app/      # Flutter Application
  └── backend_api/     # Laravel API
-
+```
 ---
 
 ## ⚙️ Prerequisites
